@@ -2,15 +2,21 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * main - This is the start point of the programme
+ *
+ * This programme also assings random number to n.
+ *
+ * Return: Always 0 (sucsess)
+ */
 int main(void)
 {
 	int n, a;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
 	a = n % 10;
+
 	printf("Last digit of %d is ", n);
 	if (a > 5)
 	{

@@ -2,7 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
-/* assign a random number to the variable n */
+/**
+ * main - Entry point of the programme
+ *
+ * This programme assings random numbers to varriable n
+ * It uses a printf statement
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
