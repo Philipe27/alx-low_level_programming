@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	char apl = 'a'
+	char apl = 'a';
 		while(apl <= 'z')
 		{
 			putchar(alp);
