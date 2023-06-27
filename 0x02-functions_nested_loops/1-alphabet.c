@@ -11,7 +11,7 @@ int main(void)
 	char apl = 'a';
 		while(apl <= 'z')
 		{
-			putchar(alp);
+			putchar(apl);
 			apl++;
 		}
 	putchar('\n');
