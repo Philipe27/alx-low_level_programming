@@ -13,7 +13,7 @@ void print_alphabet_x10(void)
 
 	while (out < 10)
 	{
-		i = 0;
+		int i = 0;
 		while (i <= 26)
 		{
 			_putchar(ltt);
