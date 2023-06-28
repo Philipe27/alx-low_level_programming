@@ -1,4 +1,4 @@
-#include "mai.h"
+#include "main.h"
 /**
  * _abs - This is the start of the function
  * @n: Is a place holder
