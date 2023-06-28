@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet_x10- this is the start of tge function 
+ * print_alphabet_x10- this is the start of tge function
  *
  * This function prints the lower case alphabet ten times
  *
