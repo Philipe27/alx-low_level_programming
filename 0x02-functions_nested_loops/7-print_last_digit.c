@@ -7,7 +7,7 @@
  *
  * Return: Always sucess
  */
-int print_last_digit(int num);
+int print_last_digit(int num)
 {
 	int last_digit;
 
