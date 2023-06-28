@@ -6,7 +6,7 @@
  *
  * Return: Always sucsess
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int out = 0;
 	char ltt = 'a';
