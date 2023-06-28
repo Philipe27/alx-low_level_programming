@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 /**
  * print_alphabet_x10- this is the start of tge function 
  *
